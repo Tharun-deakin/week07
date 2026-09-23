@@ -104,7 +104,6 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      VITE_USER_SERVICE_URL: http://localhost:5001
       VITE_STUDENT_SERVICE_URL: http://localhost:5002
       VITE_LECTURER_SERVICE_URL: http://localhost:5003
       VITE_COURSE_SERVICE_URL: http://localhost:5004
